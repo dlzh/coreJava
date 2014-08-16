@@ -1,3 +1,5 @@
 changed abc in dz/branch01 to make it different from sc/abcd
 and also change the same file in branch sc/abcd to create a conflict. 
-We are trying to solve the conflict. 
+AWe are trying to solve the conflict.
+
+Try to add something in abc for rebasing.  
